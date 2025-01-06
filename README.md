@@ -19,23 +19,25 @@ I'm an undergraduate Data Science student with a passion for turning data into a
 
 ---
 
-### 📊 Data Analysis
+### 📊 Data Analysis & Management
 
-- **Project: **  
-  *.*  
+- **Project: *_Hotel Reservation Database Design **  
+  *.Designed a hotel reservation system with a star schema, SQL queries, and triggers to prevent overbooking*  
+  **🔗 View Project: **
+
+- **Project: *Black Friday Sales Analytics **  
+  *Analyzed 500,000 transactions with Python, created an interactive dashboard using Dash and Plotly, and deployed it on a web app.*  
   **🔗 View Project**
-
-- **Project: **  
-  *.*  
-  **🔗 View Project**
-
+- **Project: *Job Market Analytics**  
+  *Analyzed LinkedIn job market data across regions, visualized trends with Plotly, and created a Tableau dashboard for career insights.*  
+  **🔗 View Project: https://github.com/HieuKien2307/Job_Market_Analytics **
 ---
 
 ### 🏗️ ETL and Big Data
 
-- **Project: **  
-  *.*  
-  **🔗 View Project**
+- **Project: *Uber Data ETL and Visualization*  
+  *Developed an end-to-end data pipeline using Mage AI and Google Cloud, with ETL pipelines, BigQuery for analysis, and Google Looker for data visualization.*  
+  **🔗 View Project: https://github.com/HieuKien2307/Uber-ETL-and-Visualize **
 
 - **Project:**  
   *.*  
@@ -45,14 +47,16 @@ I'm an undergraduate Data Science student with a passion for turning data into a
 
 ### 🤖 Machine Learning & AI
 
-- **Project: **  
-  *.*  
-  **🔗 View Project**
+- **Project: *Fake Job Detector*  
+  *Built a predictive model using Auto Encoder and OneClassSVM with 90% accuracy to detect fake job listings via anomaly detection.*  
+  **🔗 View Project: **
 
-- **Project: **  
+- **Project: *Nintendo Recommendation System*  
   *.*  
-  **🔗 View Project**
-
+  **🔗 View Project:https://github.com/HieuKien2307/Nitendo_recommendation_system **
+- **Project: *Hero Name Recognition*  
+  *Scraped hero image data and trained PyTorch models using ResNet for accurate image-based hero identification.*  
+  **🔗 View Project: https://github.com/HieuKien2307/Hero_Recoginition ** 
 ---
 
 ### 📈 GitHub Stats
