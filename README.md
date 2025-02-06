@@ -1,8 +1,8 @@
 # 🏄‍♂️ Thomas
 
-**`Aspiring Data Scientist | Machine Learning Enthusiast | Big Data Explorer`**
+**`Data Scientist | Machine Learning Enthusiast | Big Data Explorer`**
 
-I'm an undergraduate Data Science student with a passion for turning data into actionable insights. I specialize in **Data Analysis**, **ETL and Big Data**, and **Machine Learning & AI**. Below is a collection of my projects aligned with my areas of expertise.
+Data Science major with a passion for turning data into actionable insights. I specialize in **Data Analysis**, **ETL and Big Data**, and **Machine Learning & AI**. Below is a collection of my projects aligned with my areas of expertise.
 
 ---
 
