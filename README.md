@@ -2,7 +2,7 @@
 
 **`Data Scientist | Machine Learning Enthusiast | Big Data Explorer`**
 
-Data Science major with a passion for turning data into actionable insights. I specialize in **Data Analysis**, **ETL and Big Data**, and **Machine Learning & AI**. Below is a collection of my projects aligned with my areas of expertise.
+I am thrilled to share that I have successfully completed my Data Science coursework, and I am now deeply passionate about transforming raw data into meaningful, actionable insights. I specialize in **Data Analysis**, **ETL and Big Data**, and **Machine Learning & AI**. Below is a collection of my projects aligned with my areas of expertise.
 
 ---
 
