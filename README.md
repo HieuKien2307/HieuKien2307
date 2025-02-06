@@ -39,9 +39,9 @@ I'm an undergraduate Data Science student with a passion for turning data into a
   *Developed an end-to-end data pipeline using Mage AI and Google Cloud, with ETL pipelines, BigQuery for analysis, and Google Looker for data visualization.*  
   **🔗 View Project: https://github.com/HieuKien2307/Uber-ETL-and-Visualize **
 
-- **Project:**  
-  *.*  
-  **🔗 View Project**
+- **Project: "Dictionary Database**  
+  *.* Developed a dictionary app with GUI and database integration, supporting user authentication and word management. 
+  **🔗 View Project: https://github.com/HieuKien2307/DictionaryProject**
 
 ---
 
